@@ -1,1 +1,1 @@
-# google-genai-sample
+pip install -U google-genai
